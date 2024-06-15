@@ -1,2 +1,0 @@
-# templates
-stores html templates
