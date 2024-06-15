@@ -1,0 +1,2 @@
+# templates
+stores html templates
